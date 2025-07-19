@@ -1,0 +1,25 @@
+#!name=aaplimg
+#!desc=CDN优化
+#!category=Module
+
+[Host]
+aod.itunes.apple.com = 2403:300:a0a:f000::1
+appldnld.apple.com = 2403:300:a0a:f000::1
+audio.itunes.apple.com = 2403:300:a0a:f000::1
+audiocontentdownload.apple.com = 2403:300:a0a:f000::1
+devimages-cdn.apple.com = 2403:300:a0a:f000::1
+download.developer.apple.com = 2403:300:a0a:f000::1
+hls.itunes.apple.com = 2403:300:a0a:f200::1
+hls-amt.itunes.apple.com = 2403:300:a0a:f200::1
+iosapps.itunes.apple.com = 2403:300:a0a:f000::1
+mesu.apple.com = 2403:300:a0a:f000::1
+mvod.itunes.apple.com = 2403:300:a0a:f000::1
+osxapps.itunes.apple.com = 2403:300:a0a:f000::1
+playgrounds-assets-cdn.apple.com = 2403:300:a0a:f000::1
+playgrounds-cdn.apple.com = 2403:300:a0a:f000::1
+streamingaudio.itunes.apple.com = 2403:300:a0a:f000::1
+swcdn.apple.com = 2403:300:a0a:f000::1
+sylvan.apple.com = 2403:300:a0a:f000::1
+time.apple.com = 2403:300:a0a:4000::1f2
+updates.cdn-apple.com = 2403:300:a0a:f000::1
+updates-http.cdn-apple.com = 2403:300:a0a:f000::1
